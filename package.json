@@ -1,0 +1,16 @@
+{
+  "name": "my_first_project_of_node_js",
+  "version": "1.0.0",
+  "description": "primer proyecto con node. practicando teoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "first",
+    "project"
+  ],
+  "author": "mahicol gallego <maicolgallego14@gmail.com>",
+  "license": "ISC"
+}
